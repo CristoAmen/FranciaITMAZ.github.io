@@ -1,0 +1,22 @@
+.containerTabla      {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  
+
+  /* PIB */
+
+  .pib{
+
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    
+
+  }
+
+  .pib_2{
+    color: white;
+    text-align: justify;
+  }
